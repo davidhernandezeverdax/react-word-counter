@@ -1,0 +1,10 @@
+.word-counter-textarea {
+  border: 1px solid #ccc;
+  padding: 8px;
+  width: 100%;
+  color: #333;
+}
+
+.word-counter-info {
+  margin-top: 8px;
+}
